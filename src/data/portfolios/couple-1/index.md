@@ -1,18 +1,18 @@
 ---
-title: A mountain escape
-description: Transform your wedding moments into lasting memories amidst California's majestic mountains.
-heroImage: ./couple-9-square.jpg
+title: Aniversario
+description: En Montes y Vegas, nos reunimos con el compromiso de impulsar el desarrollo y crecimiento de nuestra asociación, fomentando el ahorro, la cooperación y el progreso de nuestra comunidad en Bellavista Alta-Combayo-Encañada.
+heroImage: ./reunion.jpeg
 date: "Aug 5 2024"
-location: Malibu, California
-clients: [Hannah, Marco]
+location: Bellavista Alta-Combayo-Encañada
+clients: [Montes y Vegas]
 images:
   [
-    [./couple-2-min-1.jpg, ./couple-2-min-1.jpg],
-    [./rings-wood-min-1.jpg, ./seals-min-1.jpg, ./rings-wood-min-1.jpg],
-    [./couple-9-1.jpg],
-    [./cake-min-1.jpg, ./dress-min-1.jpg],
+    [./ft01.jpeg, ./ft02.jpeg],
+    [./ft03.jpeg, ./ft04.jpeg, ./ft05.jpeg],
+    [./ft08.jpeg],
+    [./ft07.jpeg, ./ft06.jpeg],
   ]
 order: 1
 ---
 
-This Malibu wedding was a breathtaking affair. The stunning mountain views provided a picturesque backdrop. The photographs beautifully captured the intimate moments, the vibrant energy, and the overall romantic ambiance of the day.
+Montes y Vegas es una asociación de ahorros y créditos comprometida con el desarrollo financiero de la comunidad. Ubicados en Bellavista Alta-Combayo-Encañada, trabajamos para fortalecer la economía local a través de la digitalización de procesos y servicios accesibles para nuestros socios.

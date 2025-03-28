@@ -1,6 +1,6 @@
 ---
-title: JOSÉ & MELANIE
-testimonial: Jenna has a way of making us feel like the only people in the room. The photos she delivered were beyond our expectations, capturing the joy, love, and beauty of our special day in a way that we will treasure forever.
+title: Carlos Jaime M LL
+testimonial: Carlos Jaime Mendoza Llanos, ganadero de Bellavista Alta y dueño del fundo "El Juay", ha perfeccionado por más de 12 años la crianza de ganado Brown Swiss. Como socio de Montes y Vegas, accedió a préstamos con facilidades, permitiéndole mejorar la calidad genética y producción de su ganado. Su éxito en ferias ganaderas lo ha consolidado como instructor en ganadería de calidad.
 image: ./couple-8-crop.jpg
 order: 1
 ---

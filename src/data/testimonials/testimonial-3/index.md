@@ -1,6 +1,6 @@
 ---
-title: BRIAN & KEVIN
-testimonial: Jenna was always available to answer our questions, offer recommendations, and ensure that everything ran smoothly. Her dedication to capturing our love story was evident in every shot, and we are grateful for her beautiful work.
+title: Enov 
+testimonial: Ever Enov Mendoza Llanos es ingeniero ambiental, sociólogo y analista en Montes y Vegas. Gracias a un préstamo de la asociación, adquirio de un lote de terrero en su estapa como estudiante, aprovechando sus facilidades y bajos intereses. Su experiencia y visión lo han llevado a consolidarse en el sector, contribuyendo al desarrollo de su comunidad.
 image: ./couple-7-crop.jpg
 order: 1
 ---
